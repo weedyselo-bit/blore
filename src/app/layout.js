@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
 
   <Script
-    src="https://www.googletagmanager.com/gtag/js?id=G-1B0S2PXT25"
+    src="https://www.googletagmanager.com/gtag/js?id=G-1B0S2PXT2S"
     strategy="afterInteractive"
   />
 
