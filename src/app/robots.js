@@ -7,7 +7,6 @@ export default function robots() {
         disallow: ['/admin'],
       },
     ],
-
     sitemap: 'https://blore.vercel.app/sitemap.xml',
   }
 }
