@@ -19,6 +19,10 @@ export const metadata = {
   verification: {
     google: "oTKMunfBEnGbUW8wCCt2C_bEeWteosErILyvyFFd7zM",
   },
+
+ other: {
+    "google-adsense-account": "ca-pub-9117187560795997",
+  },
 };
 
 export default function RootLayout({ children }) {
